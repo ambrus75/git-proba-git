@@ -72,9 +72,9 @@
 }
 
 #container1{
-  border: 1px solid white;
-  box-shadow: 0px 5px 10px black ;
-  padding: 25px;
+  /*border: 1px solid white;
+  box-shadow: 0px 5px 10px black ;*/
+  padding: 50px;
   position: relative;
   justify-content: center;
   margin: auto;
@@ -91,5 +91,11 @@ h1{
 }
 .lista li{
   color: white;
+  text-align: center;
+  list-style-type:none;
+  font-size: 32px;
+  text-shadow: 0px 5px 10px black;
+
+  
 
 }
